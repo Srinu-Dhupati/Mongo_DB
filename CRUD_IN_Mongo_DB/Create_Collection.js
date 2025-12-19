@@ -2,5 +2,3 @@
 
 db.createCollection('college_students');
 
-output: 
-	{ ok: 1 }
